@@ -1,0 +1,50 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Charlotte,Mecklenburg,35.178311,-80.786984,Private,Adventist Christian Academy,2018,NC,4601 Emory Ln,36.0,28211
+Charlotte,Mecklenburg,35.197057,-80.729512,Elementary,Albemarle Road Elementary,2017,NC,7800 Riding Trail Rd,1169.0,28212
+Charlotte,Mecklenburg,35.198649,-80.729013,Middle,Albemarle Road Middle,2017,NC,6900 Democracy Dr,1158.0,28212
+Charlotte,Mecklenburg,35.1667,-80.832716,Middle,Alexander Graham Middle,2017,NC,1800 Runnymede Ln,1422.0,28211
+Charlotte,Mecklenburg,35.158298,-80.75749,Private,Alexander Youth Network,2018,NC,6220 Thermal Rd,35.0,28211
+Charlotte,Mecklenburg,35.261753,-80.91503,Elementary,Allenbrook Elementary,2017,NC,1430 Allenbrook Dr,552.0,28208
+Charlotte,Mecklenburg,35.18369,-80.761646,Private,Alternative Learning Center Mosaic (Mosaic School),2018,NC,6100 Monroe Rd,45.0,28212
+Charlotte,Mecklenburg,35.147389,-80.853995,Private,Anami Montessori School,2018,NC,2901 Archdale Dr,60.0,28210
+Charlotte,Mecklenburg,35.02999,-80.82665,High,Ardrey Kell High,2017,NC,10220 Ardrey Kell Rd,2991.0,28277
+Charlotte,Mecklenburg,35.3051,-80.952731,Elementary,Aristotle Preparatory Academy,2017,NC,8101 Fallsdale Drive,162.0,28214
+Charlotte,Mecklenburg,35.232655,-80.890678,Elementary,Ashley Park PreK-8 School,2017,NC,2401 Belfast Dr,555.0,28208
+Charlotte,Mecklenburg,35.308671,-80.710418,Private,Back Creek Christian Academy,2018,NC,1827 Back Creek Church Rd,154.0,28213
+Charlotte,Mecklenburg,35.17497,-80.648406,Elementary,Bain Elementary,2017,NC,11540 Bain School Rd,925.0,28227
+Charlotte,Mecklenburg,35.037387,-80.856135,Elementary,Ballantyne Elementary,2017,NC,15425 Scholastic Dr,866.0,28277
+Charlotte,Mecklenburg,35.210389,-80.888822,Elementary,Barringer Academic Center,2017,NC,1546 Walton Rd,593.0,28208
+Charlotte,Mecklenburg,35.286599,-80.857701,Private,Berean Junior Academy,2018,NC,3748 Beatties Ford Rd,46.0,28216
+Charlotte,Mecklenburg,35.173896,-80.97883,Elementary,Berewick Elementary,2017,NC,5910 Dixie River Rd,694.0,28278
+Charlotte,Mecklenburg,35.212826,-80.990472,Elementary,Berryhill School,2017,NC,10501 Windy Grove Rd,703.0,28278
+Charlotte,Mecklenburg,35.13142,-80.836803,Elementary,Beverly Woods Elementary,2017,NC,6001 Quail Hollow Rd,770.0,28210
+Charlotte,Mecklenburg,35.19641,-80.809579,Elementary,Billingsville Elementary,2017,NC,124 Skyland Ave,329.0,28205
+Charlotte,Mecklenburg,35.34506,-80.719291,Other,Bradford Preparatory School,2017,NC,2502 Salome Church Rd,980.0,28262
+Charlotte,Mecklenburg,35.252048,-80.765664,Elementary,Briarwood Elementary,2017,NC,1001 Wilann Dr,721.0,28215
+Charlotte,Mecklenburg,,,Private,Brookstone Schools,2018,NC,PO Box 667800,151.0,28266
+Charlotte,Mecklenburg,35.069244,-80.83741,Private,Brtish International School Of Charlotte,2018,NC,7000 Endhaven Ln,142.0,28277
+Charlotte,Mecklenburg,35.239101,-80.864943,Elementary,Bruns Avenue Elementary,2017,NC,501 S. Bruns Ave,690.0,28208
+Charlotte,Mecklenburg,35.085269,-80.815594,Private,Calvary Child Dvlpment Center,2018,NC,5801 Pineville Matthews Rd,50.0,28226
+Charlotte,Mecklenburg,35.128885,-80.804439,Middle,Carmel Middle,2017,NC,5001 Camilla Dr,1071.0,28226
+Charlotte,Mecklenburg,35.264861,-80.731168,High,Cato Middle College High,2017,NC,8120 Grier Rd   Suite 171-B,247.0,28215
+Charlotte,Mecklenburg,35.207741,-80.800349,Elementary,Chantilly Montessori,2017,NC,701 Briar Creek Rd,334.0,28205
+Charlotte,Mecklenburg,35.087683,-80.850374,Private,Charlotte Catholic High School,2018,NC,7702 Pineville Matthews Rd,1219.0,28226
+Charlotte,Mecklenburg,35.23527,-80.736451,Elementary,Charlotte Choice Charter,2017,NC,3118 Milton Road,289.0,28215
+Charlotte,Mecklenburg,35.137769,-80.768522,Private,Charlotte Christian School,2018,NC,7301 Sardis Rd,1081.0,28270
+Charlotte,Mecklenburg,35.14717,-80.803724,Private,Charlotte Country Day School,2018,NC,1440 Carmel Rd,1603.0,28226
+Charlotte,Mecklenburg,35.20888,-80.747361,Elementary,Charlotte East Language Academy,2017,NC,6108 Wilora Lake Rd,,28212
+Charlotte,Mecklenburg,35.308908,-80.744073,High,Charlotte Engineering Early College-UNCC,2017,NC,9000 Robert Snyder Rd,281.0,28262
+Charlotte,Cabarrus,35.208542,-80.769077,Private,Charlotte Islamic Academy,2018,NC,1700 Progress Ln,139.0,28205
+Charlotte,Mecklenburg,,,Private,Charlotte Jewish Day School,2018,NC,PO Box 79180,91.0,28271
+Charlotte,Mecklenburg,35.22912,-80.834801,Elementary,Charlotte Lab School,2017,NC,301 E 9th Street,404.0,28202
+Charlotte,Mecklenburg,35.07996,-80.775199,Private,Charlotte Latin School,2018,NC,9502 Providence Rd,1480.0,28277
+Charlotte,Mecklenburg,35.318648,-80.827645,Private,Charlotte Leadership Academy,2018,NC,8727 Oak Dr NE,41.0,28269
+Charlotte,Mecklenburg,35.20586,-80.798801,High,Charlotte Learning Academy,2017,NC,800 Briar Creek Rd.,260.0,28205
+Charlotte,Mecklenburg,35.211504,-80.856784,Private,Charlotte Montessori School,2018,NC,219 E Blvd,130.0,28203
+Charlotte,Mecklenburg,35.147646,-80.770297,Private,Charlotte Preparatory School,2018,NC,212 Boyce Rd,362.0,28211
+Charlotte,Mecklenburg,35.155052,-80.751045,High,Charlotte Secondary,2017,NC,8601 McAlpine Park Dr,394.0,28211
+Charlotte,Mecklenburg,35.23673,-80.813271,High,Charlotte-Mecklenburg Virtual High School,2017,NC,756 Tyvola Road,149.0,28217
+Charlotte,Mecklenburg,35.187654,-80.82224,Private,Christ Church Preschool And Kindergarten,2018,NC,1412 Providence Rd,277.0,28207
+Charlotte,Mecklenburg,35.223754,-80.625159,Elementary,Clear Creek Elementary,2017,NC,13501 Albemarle Rd,554.0,28227
+Charlotte,Mecklenburg,35.246492,-80.750138,High,Cochrane Collegiate Academy,2017,NC,6200 Starhaven Dr,795.0,28215
+Charlotte,Mecklenburg,35.184731,-80.871463,Elementary,Collinswood Language Academy,2017,NC,4000 Applegate Rd,763.0,28209

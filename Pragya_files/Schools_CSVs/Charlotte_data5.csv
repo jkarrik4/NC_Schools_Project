@@ -1,0 +1,22 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Charlotte,Mecklenburg,35.249533,-80.942031,Elementary,Tuckaseegee Elementary,2017,NC,2028 Little Rock Rd,764.0,28214
+Charlotte,Mecklenburg,35.273766,-80.950755,High,Turning Point Academy,2017,NC,8701 Moores Chapel Rd,160.0,28214
+Charlotte,Mecklenburg,35.30007,-80.727958,Elementary,United Community School,2017,NC,1406 Suther Road,186.0,28213
+Charlotte,Mecklenburg,35.31548,-80.714456,Elementary,University Meadows Elementary,2017,NC,1600 Pavilion Blvd,645.0,28262
+Charlotte,Mecklenburg,35.260804,-80.859241,Elementary,University Park Creative Arts,2017,NC,2400 Hildebrand St,494.0,28216
+Charlotte,Mecklenburg,35.300403,-80.769214,High,Vance High,2017,NC,7600 IBM Dr,1674.0,28262
+Charlotte,Mecklenburg,35.25203,-80.821421,Elementary,VERITAS Community School CFA,2017,NC,2600 Grimes Street,147.0,28206
+Charlotte,Mecklenburg,35.272278,-80.859164,Private,Victory Christian Center School,2018,NC,1501 Carrier Dr,194.0,28216
+Charlotte,Mecklenburg,35.23673,-80.813271,Elementary,Villa Heights Elementary,2017,NC,800 Everett Place,,28205
+Charlotte,Mecklenburg,35.155297,-80.900227,Elementary,Waddell Language Academy,2017,NC,7030 Nations Ford Rd,1382.0,28217
+Charlotte,Mecklenburg,35.244018,-80.84139,Elementary,Walter G Byers School,2017,NC,1415 Hamilton St,445.0,28206
+Charlotte,Mecklenburg,35.265404,-80.858453,High,West Charlotte High,2017,NC,2219 Senior Dr,1530.0,28216
+Charlotte,Mecklenburg,35.24792,-80.952017,High,West Mecklenburg High,2017,NC,7400 Tuckaseegee Rd,1804.0,28214
+Charlotte,Mecklenburg,35.231917,-80.911481,Elementary,Westerly Hills Academy,2017,NC,4420 Denver Ave,549.0,28208
+Charlotte,Mecklenburg,35.28323,-80.992551,Elementary,Whitewater Academy,2017,NC,11600 White Rapids Rd,788.0,28214
+Charlotte,Mecklenburg,35.28323,-80.992551,Middle,Whitewater Middle,2017,NC,10201 Running Rapids Rd,833.0,28214
+Charlotte,Mecklenburg,35.25012,-80.944031,Middle,Wilson STEM Academy,2017,NC,7020 Tuckaseegee Rd,,28214
+Charlotte,Mecklenburg,35.306431,-80.828575,Elementary,Winding Springs Elementary,2017,NC,6601 Horace Mann Rd,864.0,28269
+Charlotte,Mecklenburg,35.223185,-80.759942,Elementary,Windsor Park Elementary,2017,NC,3910 Sudbury Rd,762.0,28205
+Charlotte,Mecklenburg,35.130809,-81.000545,Elementary,Winget Park Elementary,2017,NC,12235 Winget Rd,454.0,28278
+Charlotte,Mecklenburg,35.208021,-80.766988,Elementary,Winterfield Elementary,2017,NC,3100 Winterfield Pl,679.0,28205

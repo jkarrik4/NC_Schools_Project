@@ -1,0 +1,18 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Matthews,Union,35.05881,-80.722757,Elementary,Antioch Elementary,2017,NC,3101 Antioch Church Road,711,28104
+Matthews,Union,35.020127,-80.693436,Private,Arborbrook Christian Academy,2018,NC,4823 Waxhaw Indian Trl Rd,227,28104
+Matthews,Mecklenburg,35.159855,-80.730267,Private,Bible Baptist Christian School,2018,NC,2724 Margaret Wallace Rd,177,28105
+Matthews,Mecklenburg,35.120282,-80.691593,High,Butler High,2017,NC,1810 Matthews-Mint Hill Rd,2141,28105
+Matthews,Mecklenburg,35.118899,-80.73241,Private,Covenant Day School,2018,NC,800 Fullwood Ln,857,28105
+Matthews,Mecklenburg,35.128716,-80.718054,Middle,Crestdale Middle,2017,NC,940 Sam Newell Rd,782,28105
+Matthews,Mecklenburg,35.159931,-80.715017,Elementary,Crown Point Elementary,2017,NC,3335 Sam Newell Rd,690,28105
+Matthews,Mecklenburg,35.112579,-80.747406,Elementary,Elizabeth Lane Elementary,2017,NC,121 Elizabeth Ln,1067,28105
+Matthews,Mecklenburg,35.139987,-80.703142,Private,Greyfriars Classical Academy,2018,NC,2701 Rice Rd,35,28105
+Matthews,Mecklenburg,35.10741,-80.692786,High,Levine Middle College High,2017,NC,2728 Campus Ridge Rd,246,28105
+Matthews,Mecklenburg,35.109514,-80.678875,Elementary,Matthews Charter Academy,2017,NC,2332 Mount Harmony Church Rd.,547,28104
+Matthews,Mecklenburg,35.113195,-80.723443,Elementary,Matthews Elementary,2017,NC,200 McDowell Ave,933,28105
+Matthews,Mecklenburg,35.153045,-80.69848,Middle,Mint Hill Middle,2017,NC,11501 Idewild Rd,1195,28105
+Matthews,Mecklenburg,35.072886,-80.72885,Elementary,Socrates Academy,2017,NC,3909 Weddington Rd,675,28105
+Matthews,Union,35.001319,-80.72535,Elementary,Weddington Elementary,2017,NC,3927 Twelve Mile Creek Road,811,28104
+Matthews,Union,35.007125,-80.724861,High,Weddington High,2017,NC,4901 Monroe-Weddington Road,1362,28104
+Matthews,Union,35.001345,-80.72567,Middle,Weddington Middle,2017,NC,5903 Deal Road,1012,28104

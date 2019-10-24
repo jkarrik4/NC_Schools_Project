@@ -1,0 +1,50 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Charlotte,Mecklenburg,35.360772,-80.760935,Elementary,Parkside Elementary,2017,NC,2945 Johnston-Oehler Rd,391,28269
+Charlotte,Mecklenburg,35.248485,-80.912372,Private,Paw Creek Christian Academy,2018,NC,5110 Tuckaseegee Rd,48,28208
+Charlotte,Mecklenburg,35.291096,-80.945218,Elementary,Paw Creek Elementary,2017,NC,1300 Cathey Rd,540,28214
+Charlotte,Mecklenburg,35.29507,-80.795681,High,Performance Learning Center,2017,NC,2300 W Sugar Creek Road,231,28262
+Charlotte,Mecklenburg,35.16912,-80.803289,Private,Philips Academy,2018,NC,3115 Providence Rd,28,28211
+Charlotte,Mecklenburg,35.239231,-80.891683,High,Phillip O Berry Academy of Technology,2017,NC,1430 Alleghany St,1573,28208
+Charlotte,Mecklenburg,35.223209,-80.823905,Middle,Piedmont IB Middle,2017,NC,1241 E 10th St,1084,28204
+Charlotte,Mecklenburg,35.166169,-80.864008,Elementary,Pinewood Elementary,2017,NC,805 Seneca Pl,487,28210
+Charlotte,Mecklenburg,35.173065,-80.731053,Elementary,Piney Grove Elementary,2017,NC,8801 Eaglewind Dr,806,28212
+Charlotte,Mecklenburg,35.34828,-80.822591,Elementary,Pioneer Springs Community School,2017,NC,9300 Bob Beatty Rd.,259,28269
+Charlotte,Mecklenburg,35.046855,-80.795134,Elementary,Polo Ridge Elementary,2017,NC,11830 Tom Short Rd,1021,28277
+Charlotte,Mecklenburg,35.160321,-80.780385,Private,Providence Day School,2018,NC,5800 Sardis Rd,1603,28270
+Charlotte,Mecklenburg,35.110344,-80.763887,High,Providence High,2017,NC,1800 Pineville-Matthews Rd,2048,28270
+Charlotte,Mecklenburg,35.072778,-80.769808,Elementary,Providence Spring Elementary,2017,NC,10045 Providence Church Ln,932,28277
+Charlotte,Mecklenburg,35.113917,-80.854653,Middle,Quail Hollow Middle,2017,NC,2901 Smithfield Church Rd,909,28210
+Charlotte,Mecklenburg,35.32318,-80.775761,Elementary,Queen City STEM School,2017,NC,8701 Mallard Creek Rd,380,28262
+Charlotte,Mecklenburg,35.299874,-80.840481,Private,R.C. Smith Christian Academy,2018,NC,5901 Statesville Rd,16,28269
+Charlotte,Mecklenburg,35.1697,-80.772267,Elementary,Rama Road Elementary,2017,NC,1035 Rama Rd,603,28211
+Charlotte,Mecklenburg,35.184168,-80.794571,Middle,Randolph Middle,2017,NC,4400 Water Oak Rd,1159,28211
+Charlotte,Mecklenburg,35.300334,-80.838885,Middle,Ranson Middle,2017,NC,5850 Statesville Rd,939,28269
+Charlotte,Mecklenburg,35.260209,-80.684327,Elementary,Reedy Creek Elementary,2017,NC,10801 Plaza Rd Ext,772,28215
+Charlotte,Mecklenburg,35.204978,-80.905386,Elementary,Reid Park Academy,2017,NC,4108 W Tyvola Rd,899,28208
+Charlotte,Mecklenburg,35.376236,-80.762653,Middle,Ridge Road Middle,2017,NC,7260 Highland Creek Pkwy,1245,28269
+Charlotte,Mecklenburg,35.087492,-80.977235,Elementary,River Gate Elementary,2017,NC,15340 Smith Rd,794,28273
+Charlotte,Mecklenburg,35.308338,-80.978597,Elementary,River Oaks Academy,2017,NC,1015 Mt Holly-Huntersville Rd,596,28214
+Charlotte,Mecklenburg,,,Private,Rod Of God Christian Academy,2018,NC,PO Box 240381,11,28217
+Charlotte,Mecklenburg,35.196755,-80.855862,Middle,Sedgefield Middle,2017,NC,2700 Dorchester Pl,774,28209
+Charlotte,Mecklenburg,35.196165,-80.860585,Private,Sedgefield School,2018,NC,2830 Dorchester Pl,46,28209
+Charlotte,Mecklenburg,35.167758,-80.834754,Elementary,Selwyn Elementary,2017,NC,2840 Colony Rd,860,28211
+Charlotte,Mecklenburg,35.234012,-80.788375,Elementary,Shamrock Gardens Elementary,2017,NC,3301 Country Club Dr,488,28205
+Charlotte,Mecklenburg,35.152964,-80.817467,Elementary,Sharon Elementary,2017,NC,4330 Foxcroft Rd,830,28211
+Charlotte,Mecklenburg,35.106593,-81.005645,Private,Shining Stars Academy,2018,NC,13935 Pilcher Dr,129,28278
+Charlotte,Mecklenburg,35.110727,-80.851186,Elementary,Smithfield Elementary,2017,NC,3200 Smithfield Church Rd,669,28210
+Charlotte,Mecklenburg,35.090597,-80.799037,Middle,South Charlotte Middle,2017,NC,8040 Strawberry Ln,886,28277
+Charlotte,Mecklenburg,35.109355,-80.860978,High,South Mecklenburg High,2017,NC,8900 Park Rd,3031,28210
+Charlotte,Mecklenburg,35.107185,-80.990741,Middle,Southwest Middle School,2017,NC,13624 Steele Creek Rd,1388,28273
+Charlotte,Mecklenburg,35.179973,-80.849379,Private,St Ann Catholic School,2018,NC,600 Hillside Ave,194,28209
+Charlotte,Mecklenburg,35.055106,-80.814971,Private,St Matthew Catholic School,2018,NC,11525 Elm Ln,543,28277
+Charlotte,Mecklenburg,35.13929,-80.870511,Elementary,Starmount Academy of Excellence,2017,NC,1600 Brookdale Ave,445,28210
+Charlotte,Mecklenburg,35.29595,-80.847521,Elementary,Statesville Road Elementary,2017,NC,5521 Milhaven Ln,566,28269
+Charlotte,Mecklenburg,35.1569,-80.955747,Elementary,Steele Creek Elementary,2017,NC,4100 Gallant Ln,774,28273
+Charlotte,Mecklenburg,35.236459,-80.885543,High,Stewart Creek High,2017,NC,2701-F Freedom Dr,149,28208
+Charlotte,Mecklenburg,35.348296,-80.725308,Elementary,Stoney Creek Elementary,2017,NC,14015 Mallard Roost Rd,780,28262
+Charlotte,Mecklenburg,35.11963,-80.874575,Private,Strategic Academy,2018,NC,1715 Sharon Rd W,18,28210
+Charlotte,Mecklenburg,35.257679,-80.797545,Other,Sugar Creek Charter,2017,NC,4101 N Tryon Street,1504,28206
+Charlotte,Mecklenburg,35.128421,-80.757013,Private,The Fletcher School,2018,NC,8500 Sardis Rd,275,28270
+Charlotte,Mecklenburg,35.179995,-80.904959,Private,The John Crosland School,2018,NC,5146 Pkwy Plz Blvd,77,28217
+Charlotte,Mecklenburg,35.25466,-80.898698,Elementary,Thomasboro Academy,2017,NC,538 Bradford Dr,653,28208
+Charlotte,Mecklenburg,35.224539,-80.830009,Private,Trinity Episcopal School,2018,NC,750 E 9th St,444,28202

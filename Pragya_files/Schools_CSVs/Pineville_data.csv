@@ -1,0 +1,4 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Pineville,Mecklenburg,35.081481,-80.889505,Elementary,Pineville Elementary,2017,NC,204 Lowery St,785,28134
+Pineville,Mecklenburg,35.072763,-80.880152,Private,South Charlotte Baptist Academy,2018,NC,12416 Lancaster Hwy,105,28134
+Pineville,Mecklenburg,35.107305,-80.884933,Elementary,Sterling Elementary,2017,NC,9601 China Grove Church Rd,648,28134

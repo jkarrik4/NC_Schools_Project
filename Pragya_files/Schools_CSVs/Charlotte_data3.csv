@@ -1,0 +1,49 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Charlotte,Mecklenburg,35.063078,-80.783486,Middle,Jay M Robinson Middle,2017,NC,5925 Ballantyne Commons Pkwy,1137.0,28277
+Charlotte,Mecklenburg,35.267379,-80.725387,Elementary,Joseph W Grier Academy,2017,NC,8330 Grier Rd,789.0,28215
+Charlotte,Mecklenburg,35.153501,-80.955732,Middle,Kennedy Middle,2017,NC,4000 Gallant Ln,907.0,28273
+Charlotte,Mecklenburg,35.201577,-80.845455,Private,Kent Academy,2018,NC,1819 Charlotte Dr,19.0,28203
+Charlotte,Mecklenburg,35.030376,-80.808667,Private,Kiddie Academy Of Charlotte,2018,NC,9310 Blakeney Centre Dr,174.0,28277
+Charlotte,Mecklenburg,35.028604,-80.809534,Private,Kids R Kids The Academy At Blakeney,2018,NC,6250 Blakeney Park Dr,62.0,28277
+Charlotte,Mecklenburg,35.29175,-80.795311,Private,King's Academy,2018,NC,2022 W Sugar Creek Rd,21.0,28262
+Charlotte,Mecklenburg,35.250641,-80.767033,Elementary,KIPP Charlotte,2017,NC,931 Wilann Dr,553.0,28215
+Charlotte,Mecklenburg,35.115218,-80.971669,Elementary,Lake Wylie Elementary,2017,NC,13620 Erwin Rd,677.0,28273
+Charlotte,Mecklenburg,35.143272,-80.782308,Elementary,Lansdowne Elementary,2017,NC,6400 Prett Ct,566.0,28270
+Charlotte,Mecklenburg,35.225991,-80.743914,Elementary,Lawrence Orr Elementary,2017,NC,4835 Shamrock Dr,720.0,28215
+Charlotte,Mecklenburg,35.184109,-80.689629,Elementary,Lebanon Road Elementary,2017,NC,7300 Lebanon Rd,758.0,28227
+Charlotte,Mecklenburg,35.216579,-80.811975,Other,Lincoln Heights Academy,2017,NC,1900 Newcastle St,97.0,28216
+Charlotte,Mecklenburg,35.335392,-80.774512,Elementary,Mallard Creek Elementary,2017,NC,9801 Mallard Creek Rd,671.0,28262
+Charlotte,Mecklenburg,35.36517,-80.77001,High,Mallard Creek High,2017,NC,3825 Johnston Oehler Rd,2509.0,28269
+Charlotte,Mecklenburg,35.36674,-80.797061,Elementary,Mallard Creek STEM Academy,2017,NC,9142 Browne Rd,538.0,28269
+Charlotte,Mecklenburg,35.092835,-80.843287,Private,Manus Academy,2018,NC,6203 Carmel Rd,57.0,28226
+Charlotte,Mecklenburg,35.263388,-80.778459,Middle,Martin Luther King Junior Middle,2017,NC,500 Bilmark Ave,973.0,28213
+Charlotte,Mecklenburg,35.081844,-80.828071,Elementary,McAlpine Elementary,2017,NC,9100 Carswell Ln,475.0,28277
+Charlotte,Mecklenburg,35.180983,-80.767116,Middle,McClintock Middle,2017,NC,1925 Rama Rd,1031.0,28212
+Charlotte,Mecklenburg,35.068284,-80.754791,Elementary,McKee Road Elementary,2017,NC,4101 McKee Rd,514.0,28270
+Charlotte,Mecklenburg,35.218293,-80.783023,Elementary,Merry Oaks International Academy,2017,NC,3508 Draper Ave,666.0,28205
+Charlotte,Mecklenburg,35.2182,-80.841304,Other,Metro School,2017,NC,405 S. Davidson St,233.0,28202
+Charlotte,Mecklenburg,35.168645,-80.88592,Elementary,Metrolina Regional Scholars Academy,2017,NC,5225 Seventy-seven Center Dr,375.0,28217
+Charlotte,Mecklenburg,35.22846,-80.814761,High,Military and Global Leadership Academy,2017,NC,1411 Hawthorne Lane Ste A,693.0,28205
+Charlotte,Mecklenburg,35.15225,-80.867255,Elementary,Montclaire Elementary,2017,NC,5801 Farmbrook Dr,434.0,28210
+Charlotte,Mecklenburg,35.26123,-80.938601,Other,Mountain Island Day Community Charter,2017,NC,1209 Little Rock Rd,,28214
+Charlotte,Mecklenburg,35.262267,-80.93963,Private,Mountain Island Day School,2018,NC,1209 Little Rock Rd,233.0,28214
+Charlotte,Mecklenburg,35.308039,-80.928453,Elementary,Mountain Island Lake Academy,2017,NC,7905 Pleasant Grove Rd,912.0,28216
+Charlotte,Mecklenburg,35.170784,-80.833367,High,Myers Park High,2017,NC,2400 Colony Rd,2994.0,28209
+Charlotte,Mecklenburg,35.190189,-80.83449,Elementary,Myers Park Traditional,2017,NC,2132 Radcliffe Ave,704.0,28207
+Charlotte,Mecklenburg,35.154888,-80.900221,Elementary,Nations Ford Elementary,2017,NC,7050 Nations Ford Rd,781.0,28217
+Charlotte,Mecklenburg,35.286611,-80.753691,Elementary,Newell Elementary,2017,NC,325 Rocky River Road West,845.0,28213
+Charlotte,Mecklenburg,35.297749,-80.762604,,Niner University Elementary,2017,NC,6301 University Pointe Blvd,,28262
+Charlotte,Mecklenburg,35.198073,-80.691777,Middle,Northeast Middle,2017,NC,5960 Brickstone Dr,641.0,28227
+Charlotte,Mecklenburg,35.259771,-80.730709,Middle,Northridge Middle,2017,NC,7601 The Plaza,691.0,28215
+Charlotte,Mecklenburg,35.283343,-80.783905,Private,Northside Christian Academy,2018,NC,333 Jeremiah Blvd,486.0,28262
+Charlotte,Mecklenburg,35.257129,-80.856677,High,Northwest School of the Arts,2017,NC,1415 Beatties Ford Rd,1051.0,28216
+Charlotte,Mecklenburg,35.300692,-80.896938,Elementary,Oakdale Elementary,2017,NC,1825 Oakdale Rd,687.0,28216
+Charlotte,Mecklenburg,35.19514,-80.783521,Elementary,Oakhurst STEAM Academy,2017,NC,4511 Monroe Rd,631.0,28205
+Charlotte,Mecklenburg,35.251225,-80.850261,Elementary,Oaklawn Language Academy,2017,NC,1810 Oaklawn Ave,549.0,28216
+Charlotte,Mecklenburg,35.110635,-80.798773,Elementary,Olde Providence Elementary,2017,NC,3800 Rea Rd,741.0,28226
+Charlotte,Mecklenburg,35.157963,-80.952376,High,Olympic High,2017,NC,4301 Sandy Porter Rd,,28273
+Charlotte,Mecklenburg,35.037087,-80.813025,Private,Omni Montessori School,2018,NC,9536 Blakeney Heath Rd,168.0,28277
+Charlotte,Mecklenburg,35.2305,-80.752018,Private,Our Lady Of The Assumption School,2018,NC,4225 Shamrock Dr,136.0,28215
+Charlotte,Mecklenburg,35.070241,-81.044445,Private,Palisades Episcopal School,2018,NC,13120 Grand Palisades Pkwy,170.0,28278
+Charlotte,Mecklenburg,35.093561,-81.02592,Elementary,Palisades Park Elementary,2017,NC,15321 York Rd,819.0,28278
+Charlotte,Mecklenburg,35.17753,-80.848753,Elementary,Park Road Montessori,2017,NC,3701 Haven Dr,513.0,28209
