@@ -16,6 +16,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1169,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -34,6 +35,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1158,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -52,6 +54,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1422,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -70,6 +73,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":552,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -88,6 +92,7 @@
     "schoolLevel":"High",
     "studentsNumber":2991,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -106,6 +111,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":162,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -124,6 +130,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":555,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -142,6 +149,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":925,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -160,6 +168,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":866,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -178,6 +187,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":593,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -196,6 +206,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":694,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -214,6 +225,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":703,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -232,6 +244,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":770,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -250,6 +263,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":329,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -268,6 +282,7 @@
     "schoolLevel":"Other",
     "studentsNumber":980,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -286,6 +301,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":721,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -304,6 +320,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":690,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -322,6 +339,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1071,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -340,6 +358,7 @@
     "schoolLevel":"High",
     "studentsNumber":247,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -358,6 +377,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":334,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -376,6 +396,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":289,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -394,6 +415,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":null,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -412,6 +434,7 @@
     "schoolLevel":"High",
     "studentsNumber":281,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -430,6 +453,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":404,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -448,6 +472,7 @@
     "schoolLevel":"High",
     "studentsNumber":260,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -466,6 +491,7 @@
     "schoolLevel":"High",
     "studentsNumber":394,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -484,6 +510,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":554,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -502,6 +529,7 @@
     "schoolLevel":"High",
     "studentsNumber":795,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -520,6 +548,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":763,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -538,6 +567,7 @@
     "schoolLevel":"High",
     "studentsNumber":217,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -556,6 +586,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1783,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -574,6 +605,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":814,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -592,6 +624,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":663,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -610,6 +643,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":571,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -628,6 +662,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":615,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -646,6 +681,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":633,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -664,6 +700,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":732,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -682,6 +719,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":391,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -700,6 +738,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":565,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -718,6 +757,7 @@
     "schoolLevel":"High",
     "studentsNumber":1907,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -736,6 +776,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":438,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -754,6 +795,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":884,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -772,6 +814,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":536,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -790,6 +833,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1111,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -808,6 +852,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":728,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -826,6 +871,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":572,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -844,6 +890,7 @@
     "schoolLevel":"High",
     "studentsNumber":1940,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -862,6 +909,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":811,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -880,6 +928,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1063,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -898,6 +947,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":544,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -916,6 +966,7 @@
     "schoolLevel":"High",
     "studentsNumber":1657,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -934,6 +985,7 @@
     "schoolLevel":"High",
     "studentsNumber":107,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -952,6 +1004,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":903,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -970,6 +1023,7 @@
     "schoolLevel":"High",
     "studentsNumber":179,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -988,6 +1042,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":627,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1006,6 +1061,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":974,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1024,6 +1080,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":631,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1042,6 +1099,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":289,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1060,6 +1118,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":500,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1078,6 +1137,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":633,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1096,6 +1156,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":779,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1114,6 +1175,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1002,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1132,6 +1194,7 @@
     "schoolLevel":"High",
     "studentsNumber":2469,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1150,6 +1213,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":491,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1168,6 +1232,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":491,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1186,6 +1251,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":750,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1204,6 +1270,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1017,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1222,6 +1289,7 @@
     "schoolLevel":"",
     "studentsNumber":null,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1240,6 +1308,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1137,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1258,6 +1327,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":789,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1276,6 +1346,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":907,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1294,6 +1365,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":553,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1312,6 +1384,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":677,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1330,6 +1403,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":566,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1348,6 +1422,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":720,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1366,6 +1441,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":758,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1384,6 +1460,7 @@
     "schoolLevel":"Other",
     "studentsNumber":97,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1402,6 +1479,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":671,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1420,6 +1498,7 @@
     "schoolLevel":"High",
     "studentsNumber":2509,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1438,6 +1517,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":538,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1456,6 +1536,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":973,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1474,6 +1555,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":475,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1492,6 +1574,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1031,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1510,6 +1593,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":514,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1528,6 +1612,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":666,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1546,6 +1631,7 @@
     "schoolLevel":"Other",
     "studentsNumber":233,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1564,6 +1650,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":375,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1582,6 +1669,7 @@
     "schoolLevel":"High",
     "studentsNumber":693,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1600,6 +1688,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":434,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1618,6 +1707,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":912,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1636,6 +1726,7 @@
     "schoolLevel":"High",
     "studentsNumber":2994,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1654,6 +1745,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":704,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1672,6 +1764,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":781,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1690,6 +1783,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":845,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1708,6 +1802,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":641,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1726,6 +1821,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":691,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1744,6 +1840,7 @@
     "schoolLevel":"High",
     "studentsNumber":1051,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1762,6 +1859,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":687,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1780,6 +1878,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":631,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1798,6 +1897,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":549,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1816,6 +1916,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":741,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1834,6 +1935,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":819,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1852,6 +1954,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":513,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1870,6 +1973,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":391,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1888,6 +1992,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":540,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1906,6 +2011,7 @@
     "schoolLevel":"High",
     "studentsNumber":231,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1924,6 +2030,7 @@
     "schoolLevel":"High",
     "studentsNumber":1573,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1942,6 +2049,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1084,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1960,6 +2068,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":487,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1978,6 +2087,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":806,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -1996,6 +2106,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":259,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2014,6 +2125,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1021,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2032,6 +2144,7 @@
     "schoolLevel":"High",
     "studentsNumber":2048,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2050,6 +2163,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":932,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2068,6 +2182,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":909,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2086,6 +2201,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":380,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2104,6 +2220,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":603,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2122,6 +2239,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1159,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2140,6 +2258,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":939,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2158,6 +2277,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":772,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2176,6 +2296,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":899,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2194,6 +2315,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1245,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2212,6 +2334,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":794,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2230,6 +2353,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":596,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2248,6 +2372,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":774,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2266,6 +2391,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":860,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2284,6 +2410,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":488,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2302,6 +2429,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":830,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2320,6 +2448,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":669,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2338,6 +2467,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":886,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2356,6 +2486,7 @@
     "schoolLevel":"High",
     "studentsNumber":3031,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2374,6 +2505,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1388,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2392,6 +2524,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":445,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2410,6 +2543,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":566,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2428,6 +2562,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":774,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2446,6 +2581,7 @@
     "schoolLevel":"High",
     "studentsNumber":149,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2464,6 +2600,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":780,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2482,6 +2619,7 @@
     "schoolLevel":"Other",
     "studentsNumber":1504,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2500,6 +2638,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":653,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2518,6 +2657,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":764,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2536,6 +2676,7 @@
     "schoolLevel":"High",
     "studentsNumber":160,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2554,6 +2695,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":186,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2572,6 +2714,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":645,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2590,6 +2733,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":494,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2608,6 +2752,7 @@
     "schoolLevel":"High",
     "studentsNumber":1674,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2626,6 +2771,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":147,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2644,6 +2790,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":null,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2662,6 +2809,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":null,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2680,6 +2828,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1382,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2698,6 +2847,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":445,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2716,6 +2866,7 @@
     "schoolLevel":"High",
     "studentsNumber":1530,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2734,6 +2885,7 @@
     "schoolLevel":"High",
     "studentsNumber":1804,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2752,6 +2904,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":549,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2770,6 +2923,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":788,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2788,6 +2942,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":833,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2806,6 +2961,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":null,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2824,6 +2980,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":864,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2842,6 +2999,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":762,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2860,6 +3018,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":454,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2878,6 +3037,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":679,
     "Rating":1,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2896,6 +3056,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1666,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2914,6 +3075,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":605,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2932,6 +3094,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1033,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2950,6 +3113,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":157,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2968,6 +3132,7 @@
     "schoolLevel":"High",
     "studentsNumber":2594,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -2986,6 +3151,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":723,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3004,6 +3170,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1068,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3022,6 +3189,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1063,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3040,6 +3208,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":593,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3058,6 +3227,7 @@
     "schoolLevel":"High",
     "studentsNumber":1662,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3076,6 +3246,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":815,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3094,6 +3265,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":763,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3112,6 +3284,7 @@
     "schoolLevel":"Other",
     "studentsNumber":1605,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3130,6 +3303,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":472,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3148,6 +3322,7 @@
     "schoolLevel":"High",
     "studentsNumber":2193,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3166,6 +3341,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":584,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3184,6 +3360,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":162,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3202,6 +3379,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":785,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3220,6 +3398,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":648,
     "Rating":2,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3238,6 +3417,7 @@
     "schoolLevel":"High",
     "studentsNumber":2141,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3256,6 +3436,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":782,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3274,6 +3455,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":690,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3292,6 +3474,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":1067,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3310,6 +3493,7 @@
     "schoolLevel":"High",
     "studentsNumber":246,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3328,6 +3512,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":547,
     "Rating":3,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3346,6 +3531,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":933,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3364,6 +3550,7 @@
     "schoolLevel":"Middle",
     "studentsNumber":1195,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3382,6 +3569,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":675,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3400,6 +3588,7 @@
     "schoolLevel":"Other",
     "studentsNumber":1371,
     "Rating":4,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   },
@@ -3418,6 +3607,7 @@
     "schoolLevel":"Elementary",
     "studentsNumber":708,
     "Rating":5,
+    "schoolYear":2017,
     "Source":"US Census"
     }
   }
