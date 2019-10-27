@@ -1,0 +1,7 @@
+city,countyName,latitude,longitude,schoolLevel,schoolName,schoolYear,state,street,studentsNumber,zip
+Cornelius,Mecklenburg,35.467451,-80.837951,Middle,Bailey Middle,2017,NC,11900 Bailey Rd,1666,28031
+Cornelius,Mecklenburg,35.48172,-80.864216,Elementary,Cornelius Elementary,2017,NC,21126 Catawba Ave,605,28031
+Cornelius,Mecklenburg,35.452743,-80.867257,Private,Grace Covenant Academy,2018,NC,17301 Statesville Rd,167,28031
+Cornelius,Mecklenburg,35.466507,-80.868005,Elementary,J.V. Washam Elementary,2017,NC,9611 Westmoreland Rd,1033,28031
+Cornelius,Mecklenburg,35.45164,-80.843621,Elementary,Lakeside Charter Academy,2017,NC,17609 Old Statesville Rd,157,28031
+Cornelius,Mecklenburg,35.46729,-80.827491,High,William Amos Hough High,2017,NC,12420 Bailey Rd,2594,28031

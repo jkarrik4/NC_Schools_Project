@@ -1,0 +1,3615 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.729512,35.197057 ]
+    },
+    "properties": {
+    "schoolName":"Albemarle Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7800 Riding Trail Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1169,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.729013,35.198649 ]
+    },
+    "properties": {
+    "schoolName":"Albemarle Road Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6900 Democracy Dr",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1158,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.832716,35.1667 ]
+    },
+    "properties": {
+    "schoolName":"Alexander Graham Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1800 Runnymede Ln",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1422,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.91503,35.26175300000001 ]
+    },
+    "properties": {
+    "schoolName":"Allenbrook Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1430 Allenbrook Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":552,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82665,35.029990000000005 ]
+    },
+    "properties": {
+    "schoolName":"Ardrey Kell High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"10220 Ardrey Kell Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2991,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.952731,35.3051 ]
+    },
+    "properties": {
+    "schoolName":"Aristotle Preparatory Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8101 Fallsdale Drive",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":162,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.89067800000002,35.232655 ]
+    },
+    "properties": {
+    "schoolName":"Ashley Park PreK-8 School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2401 Belfast Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":555,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.64840600000002,35.17497 ]
+    },
+    "properties": {
+    "schoolName":"Bain Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"11540 Bain School Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":925,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.856135,35.037387 ]
+    },
+    "properties": {
+    "schoolName":"Ballantyne Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"15425 Scholastic Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":866,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88882199999998,35.210389 ]
+    },
+    "properties": {
+    "schoolName":"Barringer Academic Center",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1546 Walton Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":593,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.97883,35.173896 ]
+    },
+    "properties": {
+    "schoolName":"Berewick Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5910 Dixie River Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":694,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.990472,35.212826 ]
+    },
+    "properties": {
+    "schoolName":"Berryhill School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"10501 Windy Grove Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":703,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.836803,35.13142 ]
+    },
+    "properties": {
+    "schoolName":"Beverly Woods Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6001 Quail Hollow Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":770,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.809579,35.19641 ]
+    },
+    "properties": {
+    "schoolName":"Billingsville Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"124 Skyland Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":329,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.719291,35.34506 ]
+    },
+    "properties": {
+    "schoolName":"Bradford Preparatory School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2502 Salome Church Rd",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":980,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.765664,35.25204799999999 ]
+    },
+    "properties": {
+    "schoolName":"Briarwood Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1001 Wilann Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":721,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.86494300000003,35.239101 ]
+    },
+    "properties": {
+    "schoolName":"Bruns Avenue Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"501 S. Bruns Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":690,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.804439,35.128885 ]
+    },
+    "properties": {
+    "schoolName":"Carmel Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5001 Camilla Dr",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1071,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.73116800000003,35.264861 ]
+    },
+    "properties": {
+    "schoolName":"Cato Middle College High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8120 Grier Rd   Suite 171-B",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":247,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.800349,35.207741 ]
+    },
+    "properties": {
+    "schoolName":"Chantilly Montessori",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"701 Briar Creek Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":334,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.736451,35.23527 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte Choice Charter",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3118 Milton Road",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":289,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.747361,35.20888 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte East Language Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6108 Wilora Lake Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":null,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.744073,35.308908 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte Engineering Early College-UNCC",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9000 Robert Snyder Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":281,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.834801,35.22912 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte Lab School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"301 E 9th Street",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":404,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.798801,35.20585999999999 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte Learning Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"800 Briar Creek Rd.",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":260,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.75104499999998,35.155052000000005 ]
+    },
+    "properties": {
+    "schoolName":"Charlotte Secondary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8601 McAlpine Park Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":394,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.625159,35.223754 ]
+    },
+    "properties": {
+    "schoolName":"Clear Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"13501 Albemarle Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":554,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.750138,35.246492 ]
+    },
+    "properties": {
+    "schoolName":"Cochrane Collegiate Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6200 Starhaven Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":795,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.871463,35.184731 ]
+    },
+    "properties": {
+    "schoolName":"Collinswood Language Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4000 Applegate Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":763,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.758581,35.20971 ]
+    },
+    "properties": {
+    "schoolName":"Commonwealth High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5112 Central Ave",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":217,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.823957,35.036092 ]
+    },
+    "properties": {
+    "schoolName":"Community House Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9500 Community House Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1783,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.797578,35.179268 ]
+    },
+    "properties": {
+    "schoolName":"Cotswold IB Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"300 Greenwich Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":814,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.94467399999998,35.303869 ]
+    },
+    "properties": {
+    "schoolName":"Coulwood STEM Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"500 Kentberry Dr",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":663,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.804651,35.346489 ]
+    },
+    "properties": {
+    "schoolName":"Croft Community Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4911 Hucks Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":571,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.800925,35.336844 ]
+    },
+    "properties": {
+    "schoolName":"David Cox Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4215 David Cox Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":615,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74596899999997,35.245108 ]
+    },
+    "properties": {
+    "schoolName":"Devonshire Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6500 Barrington Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":633,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.851566,35.211384 ]
+    },
+    "properties": {
+    "schoolName":"Dilworth Elementary School: Latta Campus",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"405 E. Park Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":732,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.86343199999997,35.190272 ]
+    },
+    "properties": {
+    "schoolName":"Dilworth Elementary School: Sedgefield C",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"715 Hartford Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":391,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82434599999998,35.257307 ]
+    },
+    "properties": {
+    "schoolName":"Druid Hills Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2801 Lucena Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":565,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.75797800000002,35.176007 ]
+    },
+    "properties": {
+    "schoolName":"East Mecklenburg High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6800 Monroe Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1907,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.821652,35.196611 ]
+    },
+    "properties": {
+    "schoolName":"Eastover Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"500 Cherokee Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":438,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.778091,35.210204 ]
+    },
+    "properties": {
+    "schoolName":"Eastway Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1501 Norland Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":884,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82543299999998,35.215382 ]
+    },
+    "properties": {
+    "schoolName":"Elizabeth Traditional Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1601 Park Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":536,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.843144,35.022986 ]
+    },
+    "properties": {
+    "schoolName":"Elon Park Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"11425 Ardrey Kell Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1111,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.835647,35.066911 ]
+    },
+    "properties": {
+    "schoolName":"Endhaven Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6815 Endhaven Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":728,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8323,35.2291 ]
+    },
+    "properties": {
+    "schoolName":"First Ward Creative Arts Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"715 N. Caldwell St",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":572,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782875,35.241087 ]
+    },
+    "properties": {
+    "schoolName":"Garinger High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1100 Eastway Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1940,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.774752,35.298736 ]
+    },
+    "properties": {
+    "schoolName":"Governors Village STEM Academy (Lower)",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7910 Neal Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":811,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.775137,35.296698 ]
+    },
+    "properties": {
+    "schoolName":"Governors Village STEM Academy (Upper)",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7810 Neal Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1063,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74606,35.157394000000004 ]
+    },
+    "properties": {
+    "schoolName":"Greenway Park Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8301 Monroe Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":544,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.902644,35.23659 ]
+    },
+    "properties": {
+    "schoolName":"Harding University High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2001 Alleghany St",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1657,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8956,35.1296 ]
+    },
+    "properties": {
+    "schoolName":"Harper Middle College High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"315 W Hebron St",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":107,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82525799999998,35.043456 ]
+    },
+    "properties": {
+    "schoolName":"Hawk Ridge Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9201 Bryant Farms Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":903,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.80889499999998,35.220508 ]
+    },
+    "properties": {
+    "schoolName":"Hawthorne Academy of Health Sciences",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1411 Hawthorne Ln",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":179,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.719825,35.226343 ]
+    },
+    "properties": {
+    "schoolName":"Hickory Grove Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6709 Pence Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":627,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.784728,35.268056 ]
+    },
+    "properties": {
+    "schoolName":"Hidden Valley Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5100 Snow White Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":974,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.76333100000002,35.378279 ]
+    },
+    "properties": {
+    "schoolName":"Highland Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7242 Highland Creek Pkwy",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":631,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.80424599999998,35.243229 ]
+    },
+    "properties": {
+    "schoolName":"Highland Mill Montessori",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3201 Clemson Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":289,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.803206,35.255641 ]
+    },
+    "properties": {
+    "schoolName":"Highland Renaissance Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"125 W Craighead Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":500,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.86523100000002,35.324705 ]
+    },
+    "properties": {
+    "schoolName":"Hornets Nest Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6700 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":633,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.85987,35.132706 ]
+    },
+    "properties": {
+    "schoolName":"Huntingtowne Farms Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2520 Huntingtowne Farms Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":779,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.744159,35.187135 ]
+    },
+    "properties": {
+    "schoolName":"Idlewild Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7101 Idlewild Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1002,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.687432,35.197168 ]
+    },
+    "properties": {
+    "schoolName":"Independence High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1967 Patriot Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2469,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.870974,35.225632 ]
+    },
+    "properties": {
+    "schoolName":"Invest Collegiate Transform",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2045 Suttle Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":491,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.850052,35.23748300000001 ]
+    },
+    "properties": {
+    "schoolName":"Irwin Academic Center",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"329 N. Irwin Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":491,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.685407,35.21602 ]
+    },
+    "properties": {
+    "schoolName":"J H Gunn Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7400 Harrisburg Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":750,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.766922,35.298439 ]
+    },
+    "properties": {
+    "schoolName":"James Martin Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6301 University Pointe Blvd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1017,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.76260400000002,35.297749 ]
+    },
+    "properties": {
+    "schoolName":"Niner University Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6301 University Pointe Blvd",
+    "state":"NC",
+    "schoolLevel":"",
+    "studentsNumber":null,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.783486,35.063078000000004 ]
+    },
+    "properties": {
+    "schoolName":"Jay M Robinson Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5925 Ballantyne Commons Pkwy",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1137,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.725387,35.267379 ]
+    },
+    "properties": {
+    "schoolName":"Joseph W Grier Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8330 Grier Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":789,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.955732,35.153501 ]
+    },
+    "properties": {
+    "schoolName":"Kennedy Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4000 Gallant Ln",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":907,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.767033,35.25064099999999 ]
+    },
+    "properties": {
+    "schoolName":"KIPP Charlotte",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"931 Wilann Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":553,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.97166899999998,35.115218 ]
+    },
+    "properties": {
+    "schoolName":"Lake Wylie Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"13620 Erwin Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":677,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782308,35.143272 ]
+    },
+    "properties": {
+    "schoolName":"Lansdowne Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6400 Prett Ct",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":566,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.743914,35.225991 ]
+    },
+    "properties": {
+    "schoolName":"Lawrence Orr Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4835 Shamrock Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":720,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.68962900000002,35.184109 ]
+    },
+    "properties": {
+    "schoolName":"Lebanon Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7300 Lebanon Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":758,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.811975,35.216579 ]
+    },
+    "properties": {
+    "schoolName":"Lincoln Heights Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1900 Newcastle St",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":97,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.774512,35.335392 ]
+    },
+    "properties": {
+    "schoolName":"Mallard Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9801 Mallard Creek Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":671,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.77001,35.36517 ]
+    },
+    "properties": {
+    "schoolName":"Mallard Creek High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3825 Johnston Oehler Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2509,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.797061,35.36674 ]
+    },
+    "properties": {
+    "schoolName":"Mallard Creek STEM Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9142 Browne Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":538,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.778459,35.263388 ]
+    },
+    "properties": {
+    "schoolName":"Martin Luther King Junior Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"500 Bilmark Ave",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":973,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.828071,35.081844 ]
+    },
+    "properties": {
+    "schoolName":"McAlpine Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9100 Carswell Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":475,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.767116,35.180983000000005 ]
+    },
+    "properties": {
+    "schoolName":"McClintock Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1925 Rama Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1031,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.754791,35.06828400000001 ]
+    },
+    "properties": {
+    "schoolName":"McKee Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4101 McKee Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":514,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.783023,35.218293 ]
+    },
+    "properties": {
+    "schoolName":"Merry Oaks International Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3508 Draper Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":666,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.84130400000002,35.2182 ]
+    },
+    "properties": {
+    "schoolName":"Metro School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"405 S. Davidson St",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":233,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88592,35.168645 ]
+    },
+    "properties": {
+    "schoolName":"Metrolina Regional Scholars Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5225 Seventy-seven Center Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":375,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.814761,35.22846 ]
+    },
+    "properties": {
+    "schoolName":"Military and Global Leadership Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1411 Hawthorne Lane Ste A",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":693,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.867255,35.15225 ]
+    },
+    "properties": {
+    "schoolName":"Montclaire Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5801 Farmbrook Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":434,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.928453,35.308039 ]
+    },
+    "properties": {
+    "schoolName":"Mountain Island Lake Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7905 Pleasant Grove Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":912,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.83336700000002,35.170784000000005 ]
+    },
+    "properties": {
+    "schoolName":"Myers Park High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2400 Colony Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2994,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.83449,35.19018900000001 ]
+    },
+    "properties": {
+    "schoolName":"Myers Park Traditional",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2132 Radcliffe Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":704,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.900221,35.154888 ]
+    },
+    "properties": {
+    "schoolName":"Nations Ford Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7050 Nations Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":781,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.753691,35.286611 ]
+    },
+    "properties": {
+    "schoolName":"Newell Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"325 Rocky River Road West",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":845,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.691777,35.198073 ]
+    },
+    "properties": {
+    "schoolName":"Northeast Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5960 Brickstone Dr",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":641,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.73070899999998,35.259771 ]
+    },
+    "properties": {
+    "schoolName":"Northridge Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7601 The Plaza",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":691,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.856677,35.257129 ]
+    },
+    "properties": {
+    "schoolName":"Northwest School of the Arts",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1415 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1051,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.896938,35.300692 ]
+    },
+    "properties": {
+    "schoolName":"Oakdale Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1825 Oakdale Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":687,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.783521,35.19514 ]
+    },
+    "properties": {
+    "schoolName":"Oakhurst STEAM Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4511 Monroe Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":631,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.850261,35.251225 ]
+    },
+    "properties": {
+    "schoolName":"Oaklawn Language Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1810 Oaklawn Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":549,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.798773,35.110634999999995 ]
+    },
+    "properties": {
+    "schoolName":"Olde Providence Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3800 Rea Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":741,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.02592,35.093561 ]
+    },
+    "properties": {
+    "schoolName":"Palisades Park Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"15321 York Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":819,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.848753,35.17753 ]
+    },
+    "properties": {
+    "schoolName":"Park Road Montessori",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3701 Haven Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":513,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.760935,35.360772 ]
+    },
+    "properties": {
+    "schoolName":"Parkside Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2945 Johnston-Oehler Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":391,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.94521800000003,35.291096 ]
+    },
+    "properties": {
+    "schoolName":"Paw Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1300 Cathey Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":540,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.795681,35.29507 ]
+    },
+    "properties": {
+    "schoolName":"Performance Learning Center",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2300 W Sugar Creek Road",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":231,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.891683,35.239231 ]
+    },
+    "properties": {
+    "schoolName":"Phillip O Berry Academy of Technology",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1430 Alleghany St",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1573,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82390500000002,35.22320900000001 ]
+    },
+    "properties": {
+    "schoolName":"Piedmont IB Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1241 E 10th St",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1084,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.864008,35.166169000000004 ]
+    },
+    "properties": {
+    "schoolName":"Pinewood Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"805 Seneca Pl",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":487,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.731053,35.173065 ]
+    },
+    "properties": {
+    "schoolName":"Piney Grove Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8801 Eaglewind Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":806,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.822591,35.34827999999999 ]
+    },
+    "properties": {
+    "schoolName":"Pioneer Springs Community School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"9300 Bob Beatty Rd.",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":259,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79513399999998,35.046855 ]
+    },
+    "properties": {
+    "schoolName":"Polo Ridge Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"11830 Tom Short Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1021,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.763887,35.110344 ]
+    },
+    "properties": {
+    "schoolName":"Providence High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1800 Pineville-Matthews Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2048,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.769808,35.072778 ]
+    },
+    "properties": {
+    "schoolName":"Providence Spring Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"10045 Providence Church Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":932,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.854653,35.113917 ]
+    },
+    "properties": {
+    "schoolName":"Quail Hollow Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2901 Smithfield Church Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":909,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.775761,35.32318 ]
+    },
+    "properties": {
+    "schoolName":"Queen City STEM School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8701 Mallard Creek Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":380,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.772267,35.1697 ]
+    },
+    "properties": {
+    "schoolName":"Rama Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1035 Rama Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":603,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79457099999998,35.184168 ]
+    },
+    "properties": {
+    "schoolName":"Randolph Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4400 Water Oak Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1159,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.838885,35.300334 ]
+    },
+    "properties": {
+    "schoolName":"Ranson Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5850 Statesville Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":939,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.684327,35.260209 ]
+    },
+    "properties": {
+    "schoolName":"Reedy Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"10801 Plaza Rd Ext",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":772,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.905386,35.20497800000001 ]
+    },
+    "properties": {
+    "schoolName":"Reid Park Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4108 W Tyvola Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":899,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.762653,35.376236 ]
+    },
+    "properties": {
+    "schoolName":"Ridge Road Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7260 Highland Creek Pkwy",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1245,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.977235,35.087492 ]
+    },
+    "properties": {
+    "schoolName":"River Gate Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"15340 Smith Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":794,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.978597,35.308338 ]
+    },
+    "properties": {
+    "schoolName":"River Oaks Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1015 Mt Holly-Huntersville Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":596,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.855862,35.196755 ]
+    },
+    "properties": {
+    "schoolName":"Sedgefield Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2700 Dorchester Pl",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":774,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.834754,35.167758 ]
+    },
+    "properties": {
+    "schoolName":"Selwyn Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2840 Colony Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":860,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.788375,35.234012 ]
+    },
+    "properties": {
+    "schoolName":"Shamrock Gardens Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3301 Country Club Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":488,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.81746700000002,35.152964000000004 ]
+    },
+    "properties": {
+    "schoolName":"Sharon Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4330 Foxcroft Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":830,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.851186,35.110727000000004 ]
+    },
+    "properties": {
+    "schoolName":"Smithfield Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3200 Smithfield Church Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":669,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.799037,35.090596999999995 ]
+    },
+    "properties": {
+    "schoolName":"South Charlotte Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8040 Strawberry Ln",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":886,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.860978,35.109355 ]
+    },
+    "properties": {
+    "schoolName":"South Mecklenburg High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8900 Park Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":3031,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.990741,35.107185 ]
+    },
+    "properties": {
+    "schoolName":"Southwest Middle School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"13624 Steele Creek Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1388,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.870511,35.13929 ]
+    },
+    "properties": {
+    "schoolName":"Starmount Academy of Excellence",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1600 Brookdale Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":445,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.847521,35.29595 ]
+    },
+    "properties": {
+    "schoolName":"Statesville Road Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"5521 Milhaven Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":566,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.955747,35.1569 ]
+    },
+    "properties": {
+    "schoolName":"Steele Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4100 Gallant Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":774,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.885543,35.236459 ]
+    },
+    "properties": {
+    "schoolName":"Stewart Creek High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2701-F Freedom Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":149,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.725308,35.34829600000001 ]
+    },
+    "properties": {
+    "schoolName":"Stoney Creek Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"14015 Mallard Roost Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":780,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.797545,35.257679 ]
+    },
+    "properties": {
+    "schoolName":"Sugar Creek Charter",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4101 N Tryon Street",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":1504,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.898698,35.25466 ]
+    },
+    "properties": {
+    "schoolName":"Thomasboro Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"538 Bradford Dr",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":653,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.942031,35.249533 ]
+    },
+    "properties": {
+    "schoolName":"Tuckaseegee Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2028 Little Rock Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":764,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.950755,35.27376599999999 ]
+    },
+    "properties": {
+    "schoolName":"Turning Point Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"8701 Moores Chapel Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":160,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.727958,35.30007 ]
+    },
+    "properties": {
+    "schoolName":"United Community School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1406 Suther Road",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":186,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.71445600000001,35.31548 ]
+    },
+    "properties": {
+    "schoolName":"University Meadows Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1600 Pavilion Blvd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":645,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.859241,35.260804 ]
+    },
+    "properties": {
+    "schoolName":"University Park Creative Arts",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2400 Hildebrand St",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":494,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.769214,35.300403 ]
+    },
+    "properties": {
+    "schoolName":"Vance High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7600 IBM Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1674,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.821421,35.25203 ]
+    },
+    "properties": {
+    "schoolName":"VERITAS Community School CFA",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2600 Grimes Street",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":147,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.813271,35.23673 ]
+    },
+    "properties": {
+    "schoolName":"Villa Heights Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"800 Everett Place",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":null,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.813271,35.23673 ]
+    },
+    "properties": {
+    "schoolName":"Villa Heights Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"800 Everett Place",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":null,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.900227,35.155297 ]
+    },
+    "properties": {
+    "schoolName":"Waddell Language Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7030 Nations Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1382,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.84139,35.244018 ]
+    },
+    "properties": {
+    "schoolName":"Walter G Byers School",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"1415 Hamilton St",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":445,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.858453,35.265404 ]
+    },
+    "properties": {
+    "schoolName":"West Charlotte High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"2219 Senior Dr",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1530,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.952017,35.24792 ]
+    },
+    "properties": {
+    "schoolName":"West Mecklenburg High",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7400 Tuckaseegee Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1804,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.91148100000002,35.231917 ]
+    },
+    "properties": {
+    "schoolName":"Westerly Hills Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"4420 Denver Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":549,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.992551,35.28323 ]
+    },
+    "properties": {
+    "schoolName":"Whitewater Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"11600 White Rapids Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":788,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.992551,35.28323 ]
+    },
+    "properties": {
+    "schoolName":"Whitewater Middle",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"10201 Running Rapids Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":833,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.94403100000002,35.25012 ]
+    },
+    "properties": {
+    "schoolName":"Wilson STEM Academy",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"7020 Tuckaseegee Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":null,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.828575,35.306431 ]
+    },
+    "properties": {
+    "schoolName":"Winding Springs Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"6601 Horace Mann Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":864,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.75994200000002,35.223185 ]
+    },
+    "properties": {
+    "schoolName":"Windsor Park Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3910 Sudbury Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":762,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.00054499999997,35.130809 ]
+    },
+    "properties": {
+    "schoolName":"Winget Park Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"12235 Winget Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":454,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.766988,35.208021 ]
+    },
+    "properties": {
+    "schoolName":"Winterfield Elementary",
+    "city":"Charlotte",
+    "countyName":"Mecklenburg",
+    "Address":"3100 Winterfield Pl",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":679,
+    "Rating":1,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.837951,35.46745100000001 ]
+    },
+    "properties": {
+    "schoolName":"Bailey Middle",
+    "city":"Cornelius",
+    "countyName":"Mecklenburg",
+    "Address":"11900 Bailey Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1666,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.864216,35.48172 ]
+    },
+    "properties": {
+    "schoolName":"Cornelius Elementary",
+    "city":"Cornelius",
+    "countyName":"Mecklenburg",
+    "Address":"21126 Catawba Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":605,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.86800500000003,35.466507 ]
+    },
+    "properties": {
+    "schoolName":"J.V. Washam Elementary",
+    "city":"Cornelius",
+    "countyName":"Mecklenburg",
+    "Address":"9611 Westmoreland Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1033,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.843621,35.45164000000001 ]
+    },
+    "properties": {
+    "schoolName":"Lakeside Charter Academy",
+    "city":"Cornelius",
+    "countyName":"Mecklenburg",
+    "Address":"17609 Old Statesville Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":157,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.82749100000002,35.46729000000001 ]
+    },
+    "properties": {
+    "schoolName":"William Amos Hough High",
+    "city":"Cornelius",
+    "countyName":"Mecklenburg",
+    "Address":"12420 Bailey Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2594,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.92486,35.399842 ]
+    },
+    "properties": {
+    "schoolName":"Barnette Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"13659 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":723,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.83529200000002,35.376415 ]
+    },
+    "properties": {
+    "schoolName":"Blythe Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"12202 Hambright Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1068,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.924644,35.396738 ]
+    },
+    "properties": {
+    "schoolName":"Francis Bradley Middle",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"13345 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1063,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.87198000000002,35.42650300000001 ]
+    },
+    "properties": {
+    "schoolName":"Grand Oak Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"15410 Stumptown Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":593,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.911004,35.378392 ]
+    },
+    "properties": {
+    "schoolName":"Hopewell High",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"11530 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":1662,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.84693299999998,35.411572 ]
+    },
+    "properties": {
+    "schoolName":"Huntersville Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"200 Gilead Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":815,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.838144,35.376721 ]
+    },
+    "properties": {
+    "schoolName":"J M Alexander Middle",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"12010 Hambright Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":763,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.83574899999998,35.390651 ]
+    },
+    "properties": {
+    "schoolName":"Lake Norman Charter",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"12435 Old Statesville Road",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":1605,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88959100000002,35.350911 ]
+    },
+    "properties": {
+    "schoolName":"Long Creek Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"9213-A Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":472,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.834877,35.372678 ]
+    },
+    "properties": {
+    "schoolName":"North Mecklenburg High",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"11201 Old Statesville Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2193,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.872686,35.41215 ]
+    },
+    "properties": {
+    "schoolName":"Torrence Creek Elementary",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"14550 Ranson Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":584,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.890772,35.349525 ]
+    },
+    "properties": {
+    "schoolName":"Trillium Springs Montessori",
+    "city":"Huntersville",
+    "countyName":"Mecklenburg",
+    "Address":"9213 Beatties Ford Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":162,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.889505,35.081481 ]
+    },
+    "properties": {
+    "schoolName":"Pineville Elementary",
+    "city":"Pineville",
+    "countyName":"Mecklenburg",
+    "Address":"204 Lowery St",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":785,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88493299999998,35.107305 ]
+    },
+    "properties": {
+    "schoolName":"Sterling Elementary",
+    "city":"Pineville",
+    "countyName":"Mecklenburg",
+    "Address":"9601 China Grove Church Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":648,
+    "Rating":2,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69159300000003,35.120282 ]
+    },
+    "properties": {
+    "schoolName":"Butler High",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"1810 Matthews-Mint Hill Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":2141,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.71805400000002,35.128716 ]
+    },
+    "properties": {
+    "schoolName":"Crestdale Middle",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"940 Sam Newell Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":782,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.715017,35.159931 ]
+    },
+    "properties": {
+    "schoolName":"Crown Point Elementary",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"3335 Sam Newell Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":690,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74740600000001,35.112579 ]
+    },
+    "properties": {
+    "schoolName":"Elizabeth Lane Elementary",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"121 Elizabeth Ln",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":1067,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.692786,35.107409999999994 ]
+    },
+    "properties": {
+    "schoolName":"Levine Middle College High",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"2728 Campus Ridge Rd",
+    "state":"NC",
+    "schoolLevel":"High",
+    "studentsNumber":246,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.678875,35.109514000000004 ]
+    },
+    "properties": {
+    "schoolName":"Matthews Charter Academy",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"2332 Mount Harmony Church Rd.",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":547,
+    "Rating":3,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.723443,35.113195000000005 ]
+    },
+    "properties": {
+    "schoolName":"Matthews Elementary",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"200 McDowell Ave",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":933,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.69848,35.153045 ]
+    },
+    "properties": {
+    "schoolName":"Mint Hill Middle",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"11501 Idewild Rd",
+    "state":"NC",
+    "schoolLevel":"Middle",
+    "studentsNumber":1195,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.72885,35.072886 ]
+    },
+    "properties": {
+    "schoolName":"Socrates Academy",
+    "city":"Matthews",
+    "countyName":"Mecklenburg",
+    "Address":"3909 Weddington Rd",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":675,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.859593,35.501804 ]
+    },
+    "properties": {
+    "schoolName":"Community School of Davidson",
+    "city":"Davidson",
+    "countyName":"Mecklenburg",
+    "Address":"404 Armour Street",
+    "state":"NC",
+    "schoolLevel":"Other",
+    "studentsNumber":1371,
+    "Rating":4,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8484,35.489791 ]
+    },
+    "properties": {
+    "schoolName":"Davidson Elementary",
+    "city":"Davidson",
+    "countyName":"Mecklenburg",
+    "Address":"635 South St",
+    "state":"NC",
+    "schoolLevel":"Elementary",
+    "studentsNumber":708,
+    "Rating":5,
+    "schoolYear":2017,
+    "Source":"US Census"
+    }
+  }
+]
+}
